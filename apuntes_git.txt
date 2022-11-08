@@ -1,0 +1,10 @@
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+$ git config --global core.editor emacs
+$ git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+$ git config --list >> lista todos los parametros
+
+git status -s >> short version
+$ git commit -a -m 'Add new benchmarks' >> add all, commit and comment inline with this simple trick :p

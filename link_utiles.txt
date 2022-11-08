@@ -1,0 +1,3 @@
+https://www.scratchapixel.com/index.php << math 3d
+https://doc.rust-lang.org/book/ << rust lang
+proximamente habran otros cambios
