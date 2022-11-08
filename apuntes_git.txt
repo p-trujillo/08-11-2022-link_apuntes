@@ -10,3 +10,5 @@ git status -s >> short version
 $ git commit -a -m 'Add new benchmarks' >> add all, commit and comment inline with this simple trick :p
 
 que pasara?
+
+veamos
