@@ -1,3 +1,5 @@
 https://www.scratchapixel.com/index.php << math 3d
 https://doc.rust-lang.org/book/ << rust lang
 proximamente habran otros cambios
+podria haber otros cambios, no lo se. es bueno practicar con git, ya que asi puedo archivar mis ejercicios
+es muy util
