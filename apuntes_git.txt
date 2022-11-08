@@ -9,6 +9,9 @@ $ git config --list >> lista todos los parametros
 git status -s >> short version
 $ git commit -a -m 'Add new benchmarks' >> add all, commit and comment inline with this simple trick :p
 
+git remote add origin https://github.com/p-trujillo/algo.git
+git push -u origin main
+
 que pasara?
 
 veamos
